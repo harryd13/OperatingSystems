@@ -1,0 +1,36 @@
+ls
+ps
+man
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls
+man ls

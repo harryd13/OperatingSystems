@@ -1,0 +1,7 @@
+ls
+ls -a
+ls -l
+ history
+ls
+ls -s
+ls -l
